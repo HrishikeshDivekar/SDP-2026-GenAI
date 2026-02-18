@@ -12,3 +12,4 @@ streamlit
 nltk
 langchain-ollama
 langchain_core
+beautifulsoup4
